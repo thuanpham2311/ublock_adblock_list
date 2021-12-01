@@ -26,6 +26,17 @@ vi.wikipedia.org###siteNotice
 vi.wikipedia.org##.collapsed.portal.vector-menu-portal.vector-menu
 vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-navigation.mw-portlet
 vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-wikipedia-interaction.mw-portlet
+www.geeksforgeeks.org###hslider
+www.geeksforgeeks.org##.darkMode-wrap
+www.geeksforgeeks.org##.header-main__container
+www.geeksforgeeks.org##.header-main__wrapper
+www.geeksforgeeks.org##.header-main__wrapper > .header-main__slider
+www.geeksforgeeks.org##.login-modal-div
+www.geeksforgeeks.org##.rightBar
+www.geeksforgeeks.org##.sideBar
+www.geeksforgeeks.org##.tooltip.article--viewer_bookmark
+www.geeksforgeeks.org##.tooltip.article--viewer_improve
+www.geeksforgeeks.org##.tooltip.article--viewer_like
 www.google.com##.XDyW0e
 www.subnhanh.net##.player-under-kubet
 www.wolframalpha.com##.Ugj72
