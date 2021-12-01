@@ -3,6 +3,10 @@ animevietsub.tv##.MovieListSldCn
 animevietsub.tv##.MovieListTopCn
 animevietsub.tv##.announcement
 animevietsub.tv##section.Wdgt:nth-of-type(2)
+discord.com##.anchorUnderlineOnHover-2ESHQB.anchor-3Z-8Bb > .clickable-3rdHwn.iconWrapper-2OrFZ1
+discord.com##.scrollerBase-289Jih.none-2Eo-qx.scroller-1Bvpku > div.listItem-2Ig28I > .listItemWrapper-2MsAsM
+discord.com##a.clickable-1JJAn8.container-2Pjhx-.channel-2QD9_O:nth-of-type(2)
+discord.com##div.listItem-2Ig28I:nth-of-type(7)
 en.wikipedia.org###footer > .noprint
 en.wikipedia.org###footer-info-copyright
 en.wikipedia.org###footer-places
@@ -24,6 +28,13 @@ vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-navigation.m
 vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-wikipedia-interaction.mw-portlet
 www.google.com##.XDyW0e
 www.subnhanh.net##.player-under-kubet
+www.wolframalpha.com##.Ugj72
+www.wolframalpha.com##._11qob._27cYQ
+www.wolframalpha.com##._1rGsC._16MbR._10um4
+www.wolframalpha.com##._2H75b._1Bdeq.krBQN._2LJkH._10um4
+www.wolframalpha.com##._2dgCA.krBQN._2LJkH._10um4
+www.wolframalpha.com##._2nlC4._1JA0a._10um4
+www.wolframalpha.com##._3xDfU
 www.youtube.com###action-buttons
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope
 www.youtube.com###copyright
