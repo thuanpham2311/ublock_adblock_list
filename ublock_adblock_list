@@ -1,50 +1,51 @@
-www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
-www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
-www.youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-scope:nth-of-type(3)
-www.youtube.com##span.ytd-video-meta-block.style-scope:nth-of-type(1)
-www.youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
-www.youtube.com##div.ytd-topbar-logo-renderer.style-scope > .ytd-topbar-logo-renderer.style-scope
-www.youtube.com##.ytp-watch-later-icon
-www.youtube.com##.ytp-title-text
-www.youtube.com##.ytp-share-icon
-www.youtube.com###voice-search-button
-www.youtube.com###thumbnail-attribution
-www.youtube.com###subscriber-count
-www.youtube.com###sentiment
-www.youtube.com###right-column
-www.youtube.com###related
-www.youtube.com###owner-sub-count
-www.youtube.com###guide-links-secondary
-www.youtube.com###guide-links-primary
-www.youtube.com###dot
-www.youtube.com###country-code
-www.youtube.com###count > .ytd-video-primary-info-renderer.style-scope
-www.youtube.com###count
-www.youtube.com###copyright
-www.youtube.com###content > .ytd-rich-section-renderer.style-scope
-www.youtube.com###action-buttons
-www.subnhanh.net##.player-under-kubet
-www.google.com##.XDyW0e
-vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-wikipedia-interaction.mw-portlet
-vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-navigation.mw-portlet
-vi.wikipedia.org##.collapsed.portal.vector-menu-portal.vector-menu
-vi.wikipedia.org###siteNotice
-vi.wikipedia.org###p-personal > .vector-menu-content > .vector-menu-content-list
-vi.wikipedia.org###p-logo
-vi.wikipedia.org###footer-places
-vi.wikipedia.org###footer-info-copyright
-vi.wikipedia.org###footer > .noprint
-github.com##.octotree-promotion
-github.com##.octotree-ads
-en.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-interaction.mw-portlet
-en.wikipedia.org##.mw-wiki-logo
-en.wikipedia.org###p-personal > .vector-menu-content
-en.wikipedia.org###p-navigation > .vector-menu-content > .vector-menu-content-list
-en.wikipedia.org###p-logo
-en.wikipedia.org###footer-places
-en.wikipedia.org###footer-info-copyright
 en.wikipedia.org###footer > .noprint
+en.wikipedia.org###footer-info-copyright
+en.wikipedia.org###footer-places
+en.wikipedia.org###p-logo
+en.wikipedia.org###p-navigation > .vector-menu-content > .vector-menu-content-list
+en.wikipedia.org###p-personal > .vector-menu-content
+en.wikipedia.org##.mw-wiki-logo
+en.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-interaction.mw-portlet
+github.com##.octotree-ads
+github.com##.octotree-promotion
+vi.wikipedia.org###footer > .noprint
+vi.wikipedia.org###footer-info-copyright
+vi.wikipedia.org###footer-places
+vi.wikipedia.org###p-logo
+vi.wikipedia.org###p-personal > .vector-menu-content > .vector-menu-content-list
+vi.wikipedia.org###siteNotice
+vi.wikipedia.org##.collapsed.portal.vector-menu-portal.vector-menu
+vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-navigation.mw-portlet
+vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-wikipedia-interaction.mw-portlet
+www.google.com##.XDyW0e
+www.subnhanh.net##.player-under-kubet
+www.youtube.com###action-buttons
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com###copyright
+www.youtube.com###count
+www.youtube.com###count > .ytd-video-primary-info-renderer.style-scope
+www.youtube.com###country-code
+www.youtube.com###dot
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###owner-sub-count
+www.youtube.com###related
+www.youtube.com###right-column
+www.youtube.com###sentiment
+www.youtube.com###sponsor-button
+www.youtube.com###subscriber-count
+www.youtube.com###thumbnail-attribution
+www.youtube.com###voice-search-button
+www.youtube.com##.ytp-share-icon
+www.youtube.com##.ytp-title-text
+www.youtube.com##.ytp-watch-later-icon
+www.youtube.com##div.ytd-topbar-logo-renderer.style-scope > .ytd-topbar-logo-renderer.style-scope
+www.youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
+www.youtube.com##span.ytd-video-meta-block.style-scope:nth-of-type(1)
+www.youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint
+www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
