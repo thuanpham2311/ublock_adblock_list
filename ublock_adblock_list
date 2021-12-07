@@ -1,7 +1,12 @@
+animevietsub.tv###mv-keywords
 animevietsub.tv##.Login
 animevietsub.tv##.MovieListSldCn
 animevietsub.tv##.MovieListTopCn
+animevietsub.tv##.alert-info.alert
 animevietsub.tv##.announcement
+animevietsub.tv##.schedule-title-main
+animevietsub.tv##.title.fbcmt
+animevietsub.tv##main > .fbcmt
 animevietsub.tv##section.Wdgt:nth-of-type(2)
 discord.com##.anchorUnderlineOnHover-2ESHQB.anchor-3Z-8Bb > .clickable-3rdHwn.iconWrapper-2OrFZ1
 discord.com##.scrollerBase-289Jih.none-2Eo-qx.scroller-1Bvpku > div.listItem-2Ig28I > .listItemWrapper-2MsAsM
@@ -38,6 +43,7 @@ www.geeksforgeeks.org##.header-main__wrapper
 www.geeksforgeeks.org##.header-main__wrapper > .header-main__slider
 www.geeksforgeeks.org##.login-modal-div
 www.geeksforgeeks.org##.rightBar
+www.geeksforgeeks.org##.show.shell-container
 www.geeksforgeeks.org##.sideBar
 www.geeksforgeeks.org##.tooltip.article--viewer_bookmark
 www.geeksforgeeks.org##.tooltip.article--viewer_improve
