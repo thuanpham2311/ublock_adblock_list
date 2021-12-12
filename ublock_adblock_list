@@ -22,6 +22,14 @@ en.wikipedia.org##.mw-wiki-logo
 en.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-interaction.mw-portlet
 github.com##.octotree-ads
 github.com##.octotree-promotion
+ophim.net##.app-footer
+ophim.net##.d-lg-block.d-none.nav-trend
+ophim.net##.flex-fill.app-detail > .app-section
+ophim.net##.flex-fill.app-detail > .row > .col
+ophim.net##.flex-fill.app-detail > .row > .col-md-12 > .row > .col
+ophim.net##.pl-md-4 > .mr-2.my-3.px-md-5.btn-theme-lt.btn
+ophim.net##.px-md-5.my-3.btn-follow.btn
+ophim.net##.text-nowrap.align-items-center.ml-auto.navbar-user.navbar-nav
 vi.wikipedia.org###footer > .noprint
 vi.wikipedia.org###footer-info-copyright
 vi.wikipedia.org###footer-places
