@@ -20,6 +20,7 @@ en.wikipedia.org###p-navigation > .vector-menu-content > .vector-menu-content-li
 en.wikipedia.org###p-personal > .vector-menu-content
 en.wikipedia.org##.mw-wiki-logo
 en.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-interaction.mw-portlet
+feeder.co##.ad-feed-container
 github.com##.octotree-ads
 github.com##.octotree-promotion
 ophim.net##.app-footer
@@ -30,6 +31,14 @@ ophim.net##.flex-fill.app-detail > .row > .col-md-12 > .row > .col
 ophim.net##.pl-md-4 > .mr-2.my-3.px-md-5.btn-theme-lt.btn
 ophim.net##.px-md-5.my-3.btn-follow.btn
 ophim.net##.text-nowrap.align-items-center.ml-auto.navbar-user.navbar-nav
+tinhocngoisao.com##.zalo-chat-widget
+twitter.com##.r-136ojw6.r-1loqt21.css-1dbjc4n > .r-136ojw6.r-1h3ijdo.css-1dbjc4n
+twitter.com##.r-1g40b8q.r-lrvibr.r-16y2uox.r-obd0qt.css-1dbjc4n
+twitter.com##.r-1hycxz.r-zso239.r-aqfbo4.css-1dbjc4n
+twitter.com##.r-1udh08x.r-1ifxtd0.r-1yadl64.r-1phboty.r-1867qdf.r-jxzhtn.r-1niwhzg.css-1dbjc4n
+twitter.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-1dbjc4n:nth-of-type(3)
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-1dbjc4n:nth-of-type(4)
 vi.wikipedia.org###footer > .noprint
 vi.wikipedia.org###footer-info-copyright
 vi.wikipedia.org###footer-places
