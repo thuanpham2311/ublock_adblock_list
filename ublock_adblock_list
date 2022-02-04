@@ -22,7 +22,10 @@ en.wikipedia.org##.mw-wiki-logo
 en.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-interaction.mw-portlet
 feeder.co##.ad-feed-container
 fptplay.vn###mua-goi
+fptplay.vn###mua-goi
 fptplay.vn##.noti-icon
+fptplay.vn##.noti-icon
+fptplay.vn##div.navigation-wrapper:nth-of-type(1)
 fptplay.vn##div.navigation-wrapper:nth-of-type(1)
 github.com##.octotree-ads
 github.com##.octotree-promotion
@@ -52,6 +55,8 @@ vi.wikipedia.org##.collapsed.portal.vector-menu-portal.vector-menu
 vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-navigation.mw-portlet
 vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-wikipedia-interaction.mw-portlet
 vieon.vn##.layer-2.relative.banner__content
+vieon.vn##.layer-2.relative.banner__content
+vieon.vn##.player__controls--top
 workona.com##.style-module--autoSaveBlock--yaPpO.core-module--ellipsis--1Pvh2
 workona.com##.style-module--header--3bvrC
 workona.com##.style-module--rootSmall--3wSLW.style-module--root--1qeb-
@@ -107,6 +112,7 @@ www.youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
 www.youtube.com##span.ytd-video-meta-block.style-scope:nth-of-type(1)
 www.youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
