@@ -23,8 +23,11 @@ en.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-interaction.
 feeder.co##.ad-feed-container
 fptplay.vn###mua-goi
 fptplay.vn###mua-goi
+fptplay.vn###mua-goi
 fptplay.vn##.noti-icon
 fptplay.vn##.noti-icon
+fptplay.vn##.noti-icon
+fptplay.vn##div.navigation-wrapper:nth-of-type(1)
 fptplay.vn##div.navigation-wrapper:nth-of-type(1)
 fptplay.vn##div.navigation-wrapper:nth-of-type(1)
 github.com##.octotree-ads
@@ -56,6 +59,8 @@ vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-navigation.m
 vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-wikipedia-interaction.mw-portlet
 vieon.vn##.layer-2.relative.banner__content
 vieon.vn##.layer-2.relative.banner__content
+vieon.vn##.layer-2.relative.banner__content
+vieon.vn##.player__controls--top
 vieon.vn##.player__controls--top
 workona.com##.style-module--autoSaveBlock--yaPpO.core-module--ellipsis--1Pvh2
 workona.com##.style-module--header--3bvrC
@@ -96,6 +101,7 @@ www.youtube.com###country-code
 www.youtube.com###dot
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
+www.youtube.com###notification-preference-button
 www.youtube.com###owner-sub-count
 www.youtube.com###related
 www.youtube.com###right-column
@@ -104,6 +110,7 @@ www.youtube.com###sponsor-button
 www.youtube.com###subscriber-count
 www.youtube.com###thumbnail-attribution
 www.youtube.com###voice-search-button
+www.youtube.com##.ytd-comments.style-scope
 www.youtube.com##.ytp-share-icon
 www.youtube.com##.ytp-title-text
 www.youtube.com##.ytp-watch-later-icon
@@ -112,6 +119,7 @@ www.youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
 www.youtube.com##span.ytd-video-meta-block.style-scope:nth-of-type(1)
 www.youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
