@@ -24,9 +24,12 @@ feeder.co##.ad-feed-container
 fptplay.vn###mua-goi
 fptplay.vn###mua-goi
 fptplay.vn###mua-goi
+fptplay.vn###mua-goi
 fptplay.vn##.noti-icon
 fptplay.vn##.noti-icon
 fptplay.vn##.noti-icon
+fptplay.vn##.noti-icon
+fptplay.vn##div.navigation-wrapper:nth-of-type(1)
 fptplay.vn##div.navigation-wrapper:nth-of-type(1)
 fptplay.vn##div.navigation-wrapper:nth-of-type(1)
 fptplay.vn##div.navigation-wrapper:nth-of-type(1)
@@ -40,6 +43,15 @@ ophim.net##.flex-fill.app-detail > .row > .col-md-12 > .row > .col
 ophim.net##.pl-md-4 > .mr-2.my-3.px-md-5.btn-theme-lt.btn
 ophim.net##.px-md-5.my-3.btn-follow.btn
 ophim.net##.text-nowrap.align-items-center.ml-auto.navbar-user.navbar-nav
+stackoverflow.com##.bottom-notice
+stackoverflow.com##.js-footer.site-footer
+stackoverflow.com##.js-sticky-leftnav.left-sidebar--sticky-container
+stackoverflow.com##.mb16.js-post-notice.post-notice.s-notice__info.s-notice
+stackoverflow.com##.no-answers
+stackoverflow.com##.post-layout--right.postcell > .mb0
+stackoverflow.com##.s-btn__primary.s-btn.ws-nowrap
+stackoverflow.com##.show-votes
+stackoverflow.com##.top-bar__network.js-top-bar.top-bar
 tinhocngoisao.com##.zalo-chat-widget
 twitter.com##.r-136ojw6.r-1loqt21.css-1dbjc4n > .r-136ojw6.r-1h3ijdo.css-1dbjc4n
 twitter.com##.r-1g40b8q.r-lrvibr.r-16y2uox.r-obd0qt.css-1dbjc4n
@@ -60,12 +72,15 @@ vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-wikipedia-in
 vieon.vn##.layer-2.relative.banner__content
 vieon.vn##.layer-2.relative.banner__content
 vieon.vn##.layer-2.relative.banner__content
+vieon.vn##.layer-2.relative.banner__content
+vieon.vn##.player__controls--top
 vieon.vn##.player__controls--top
 vieon.vn##.player__controls--top
 workona.com##.style-module--autoSaveBlock--yaPpO.core-module--ellipsis--1Pvh2
 workona.com##.style-module--header--3bvrC
 workona.com##.style-module--rootSmall--3wSLW.style-module--root--1qeb-
 workona.com##.style-module--searchWrapper--1n-Tx
+workona.com##.style-module--wrapper--X-cCk
 workona.com##div.style-module--iconRoot--1NuHN.style-module--root--39weR:nth-of-type(1)
 www.academia.edu##.header--container
 www.academia.edu##.js-swp-splash-above-fold.above-fold
@@ -102,14 +117,17 @@ www.youtube.com###dot
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
 www.youtube.com###notification-preference-button
+www.youtube.com###notification-preference-button
 www.youtube.com###owner-sub-count
 www.youtube.com###related
 www.youtube.com###right-column
 www.youtube.com###sentiment
 www.youtube.com###sponsor-button
 www.youtube.com###subscriber-count
+www.youtube.com###subscribers
 www.youtube.com###thumbnail-attribution
 www.youtube.com###voice-search-button
+www.youtube.com##.ytd-comments.style-scope
 www.youtube.com##.ytd-comments.style-scope
 www.youtube.com##.ytp-share-icon
 www.youtube.com##.ytp-title-text
@@ -122,9 +140,12 @@ www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-rendere
 www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint
 www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
+zingmp3.vn##.vip-banner-sidebar
