@@ -22,22 +22,26 @@ en.wikipedia.org##.mw-wiki-logo
 en.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-interaction.mw-portlet
 feeder.co##.ad-feed-container
 fptplay.vn###mua-goi
-fptplay.vn###mua-goi
-fptplay.vn###mua-goi
-fptplay.vn###mua-goi
-fptplay.vn###mua-goi
 fptplay.vn##.noti-icon
-fptplay.vn##.noti-icon
-fptplay.vn##.noti-icon
-fptplay.vn##.noti-icon
-fptplay.vn##.noti-icon
-fptplay.vn##div.navigation-wrapper:nth-of-type(1)
-fptplay.vn##div.navigation-wrapper:nth-of-type(1)
-fptplay.vn##div.navigation-wrapper:nth-of-type(1)
-fptplay.vn##div.navigation-wrapper:nth-of-type(1)
 fptplay.vn##div.navigation-wrapper:nth-of-type(1)
 github.com##.octotree-ads
 github.com##.octotree-promotion
+medium.com###credential_picker_container
+medium.com###medium0-donate
+medium.com##.af.ae.ac.ab.z.y.x.w.v
+medium.com##.c.bt.aq.bs.u.br.o.bq
+medium.com##.c.md.mc.mb.ma.lz.ly.lx.lw.ao.o.lv.lu.lt.ls
+medium.com##.dp.do.dn.bl.i.j.k.h.dm.c.dl.dk
+medium.com##.l.dr
+medium.com##.mf.nl.l
+medium0.com###credential_picker_container
+medium0.com###medium0-donate
+medium0.com##.af.ae.ac.ab.z.y.x.w.v
+medium0.com##.c.bt.aq.bs.u.br.o.bq
+medium0.com##.c.md.mc.mb.ma.lz.ly.lx.lw.ao.o.lv.lu.lt.ls
+medium0.com##.dp.do.dn.bl.i.j.k.h.dm.c.dl.dk
+medium0.com##.l.dr
+medium0.com##.mf.nl.l
 monkeytype.com##.logo
 ophim.net##.app-footer
 ophim.net##.d-lg-block.d-none.nav-trend
@@ -50,22 +54,13 @@ ophim.net##.text-nowrap.align-items-center.ml-auto.navbar-user.navbar-nav
 soundcloud.com##.mobileApps.g-all-transitions-200-linear.sidebarModule
 soundcloud.com##.sc-border-light-top.standard.sc-text-secondary.sc-text-verylight.l-footer
 stackoverflow.com##.bottom-notice
-stackoverflow.com##.bottom-notice
-stackoverflow.com##.js-footer.site-footer
 stackoverflow.com##.js-footer.site-footer
 stackoverflow.com##.js-sticky-leftnav.left-sidebar--sticky-container
-stackoverflow.com##.js-sticky-leftnav.left-sidebar--sticky-container
-stackoverflow.com##.mb16.js-post-notice.post-notice.s-notice__info.s-notice
 stackoverflow.com##.mb16.js-post-notice.post-notice.s-notice__info.s-notice
 stackoverflow.com##.no-answers
-stackoverflow.com##.no-answers
-stackoverflow.com##.post-layout--right.postcell > .mb0
 stackoverflow.com##.post-layout--right.postcell > .mb0
 stackoverflow.com##.s-btn__primary.s-btn.ws-nowrap
-stackoverflow.com##.s-btn__primary.s-btn.ws-nowrap
 stackoverflow.com##.show-votes
-stackoverflow.com##.show-votes
-stackoverflow.com##.top-bar__network.js-top-bar.top-bar
 stackoverflow.com##.top-bar__network.js-top-bar.top-bar
 tinhocngoisao.com##.zalo-chat-widget
 twitter.com##.r-136ojw6.r-1loqt21.css-1dbjc4n > .r-136ojw6.r-1h3ijdo.css-1dbjc4n
@@ -86,21 +81,18 @@ vi.wikipedia.org##.collapsed.portal.vector-menu-portal.vector-menu
 vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-navigation.mw-portlet
 vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-wikipedia-interaction.mw-portlet
 vieon.vn##.layer-2.relative.banner__content
-vieon.vn##.layer-2.relative.banner__content
-vieon.vn##.layer-2.relative.banner__content
-vieon.vn##.layer-2.relative.banner__content
-vieon.vn##.layer-2.relative.banner__content
 vieon.vn##.player__controls--top
-vieon.vn##.player__controls--top
-vieon.vn##.player__controls--top
-vieon.vn##.player__controls--top
+workona.com###my-tasks-btn
 workona.com##.style-module--autoSaveBlock--yaPpO.core-module--ellipsis--1Pvh2
 workona.com##.style-module--header--3bvrC
+workona.com##.style-module--overlay--EEQW6 > [href="/"]
+workona.com##.style-module--root--BqoPT
 workona.com##.style-module--rootSmall--3wSLW.style-module--root--1qeb-
 workona.com##.style-module--searchWrapper--1n-Tx
 workona.com##.style-module--wrapper--X-cCk
-workona.com##.style-module--wrapper--X-cCk
 workona.com##div.style-module--iconRoot--1NuHN.style-module--root--39weR:nth-of-type(1)
+workona.com##div.style-module--sideFilters--3EHP0:nth-of-type(1)
+workona.com##div.style-module--sideFilters--3EHP0:nth-of-type(2)
 www.academia.edu##.header--container
 www.academia.edu##.js-swp-splash-above-fold.above-fold
 www.academia.edu##.js-swp-splash-above-fold.above-fold > div.hide-on-mobile
@@ -138,8 +130,6 @@ www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
 www.youtube.com###menu-container
 www.youtube.com###notification-preference-button
-www.youtube.com###notification-preference-button
-www.youtube.com###notification-preference-button
 www.youtube.com###owner-sub-count
 www.youtube.com###related
 www.youtube.com###right-column
@@ -147,11 +137,8 @@ www.youtube.com###sentiment
 www.youtube.com###sponsor-button
 www.youtube.com###subscriber-count
 www.youtube.com###subscribers
-www.youtube.com###subscribers
 www.youtube.com###thumbnail-attribution
 www.youtube.com###voice-search-button
-www.youtube.com##.ytd-comments.style-scope
-www.youtube.com##.ytd-comments.style-scope
 www.youtube.com##.ytd-comments.style-scope
 www.youtube.com##.ytd-video-primary-info-renderer.style-scope > .ytd-menu-renderer.style-scope.dropdown-trigger
 www.youtube.com##.ytp-share-icon
@@ -164,17 +151,11 @@ www.youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-s
 www.youtube.com##ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(1)
 www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint
 www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
-zingmp3.vn##.vip-banner-sidebar
 zingmp3.vn##.vip-banner-sidebar
