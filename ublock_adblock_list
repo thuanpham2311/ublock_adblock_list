@@ -53,6 +53,17 @@ ophim.net##.px-md-5.my-3.btn-follow.btn
 ophim.net##.text-nowrap.align-items-center.ml-auto.navbar-user.navbar-nav
 soundcloud.com##.mobileApps.g-all-transitions-200-linear.sidebarModule
 soundcloud.com##.sc-border-light-top.standard.sc-text-secondary.sc-text-verylight.l-footer
+stackexchange.com##.bottom-notice
+stackexchange.com##.js-dismissable-hero.ps-relative.fc-black-200.bg-black-750.py24.sm\:d-none
+stackexchange.com##.js-footer.site-footer
+stackexchange.com##.js-sticky-leftnav.left-sidebar--sticky-container
+stackexchange.com##.mb16.js-post-notice.post-notice.s-notice__info.s-notice
+stackexchange.com##.no-answers
+stackexchange.com##.post-layout--right.postcell > .mb0
+stackexchange.com##.s-btn__primary.s-btn.ws-nowrap
+stackexchange.com##.show-votes
+stackexchange.com##.site-header
+stackexchange.com##.top-bar__network.js-top-bar.top-bar
 stackoverflow.com##.bottom-notice
 stackoverflow.com##.js-footer.site-footer
 stackoverflow.com##.js-sticky-leftnav.left-sidebar--sticky-container
@@ -159,13 +170,3 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint
 www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
 zingmp3.vn##.vip-banner-sidebar
-
-stackexchange.com##.bottom-notice
-stackexchange.com##.js-footer.site-footer
-stackexchange.com##.js-sticky-leftnav.left-sidebar--sticky-container
-stackexchange.com##.mb16.js-post-notice.post-notice.s-notice__info.s-notice
-stackexchange.com##.no-answers
-stackexchange.com##.post-layout--right.postcell > .mb0
-stackexchange.com##.s-btn__primary.s-btn.ws-nowrap
-stackexchange.com##.show-votes
-stackexchange.com##.top-bar__network.js-top-bar.top-bar
