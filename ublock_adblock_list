@@ -1,13 +1,16 @@
 animevietsub.tv###mv-keywords
+animevietsub.tv###showTopPhim
 animevietsub.tv##.Login
 animevietsub.tv##.MovieListSldCn
 animevietsub.tv##.MovieListTopCn
 animevietsub.tv##.alert-info.alert
 animevietsub.tv##.announcement
 animevietsub.tv##.schedule-title-main
+animevietsub.tv##.tag-list-main
 animevietsub.tv##.title.fbcmt
 animevietsub.tv##main > .fbcmt
 animevietsub.tv##section.Wdgt:nth-of-type(2)
+animevietsub.tv##section.Wdgt:nth-of-type(3)
 discord.com##.anchorUnderlineOnHover-2ESHQB.anchor-3Z-8Bb > .clickable-3rdHwn.iconWrapper-2OrFZ1
 discord.com##.scrollerBase-289Jih.none-2Eo-qx.scroller-1Bvpku > div.listItem-2Ig28I > .listItemWrapper-2MsAsM
 discord.com##a.clickable-1JJAn8.container-2Pjhx-.channel-2QD9_O:nth-of-type(2)
@@ -75,23 +78,47 @@ vi.wikipedia.org###siteNotice
 vi.wikipedia.org##.collapsed.portal.vector-menu-portal.vector-menu
 vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-navigation.mw-portlet
 vi.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-wikipedia-interaction.mw-portlet
+viblo.asia###g_id_onload
+viblo.asia##.align-items-sm-end.flex-wrap.flex-column.d-flex.post-meta > .align-items-center.d-flex
+viblo.asia##.bg-dark.footer
+viblo.asia##.is-light.el-alert--warning.mt-1.el-alert
+viblo.asia##.justify-content-between.align-items-top.d-md-flex
+viblo.asia##.mb-2.justify-content-end.align-items-center.d-flex.post-footer
+viblo.asia##.mb-4.main-feed__sidebar__top-organizations
+viblo.asia##.mb-sm-0.mb-2.post-author
+viblo.asia##.post-action.hidden-md-down
+viblo.asia##.post-content > .tags
+viblo.asia##.post-recommendations
+viblo.asia##.promo__banner__image.progressive-img_wrapper
+viblo.asia##.py-1.main-navbar__group.main-navbar
+viblo.asia##.text-muted.license-text
+viblo.asia##div.text-muted.mr-1.post-meta__item:nth-of-type(1)
 vieon.vn##.layer-2.relative.banner__content
 vieon.vn##.player__controls--top
 workona.com###my-tasks-btn
 workona.com##.style-module--autoSaveBlock--yaPpO.core-module--ellipsis--1Pvh2
+workona.com##.style-module--buttons--2NASJ > .style-module--btnIcon--2g3Je.style-module--btnReveal--1KndE.style-module--btn--2YYb- > .material-icons
 workona.com##.style-module--header--3bvrC
 workona.com##.style-module--overlay--EEQW6 > [href="/"]
+workona.com##.style-module--padRight--3-2Dy.style-module--btnIcon--2g3Je.style-module--btnShaded--1it-G.style-module--btn--2YYb-
+workona.com##.style-module--padRight--3-2Dy.style-module--btnPrimary--1Ot9i.style-module--btn--2YYb-
 workona.com##.style-module--root--BqoPT
 workona.com##.style-module--rootSmall--3wSLW.style-module--root--1qeb-
+workona.com##.style-module--searchBar--18qN9
 workona.com##.style-module--searchWrapper--1n-Tx
 workona.com##.style-module--wrapper--X-cCk
 workona.com##div.style-module--iconRoot--1NuHN.style-module--root--39weR:nth-of-type(1)
+workona.com##div.style-module--iconRoot--1NuHN.style-module--root--39weR:nth-of-type(3) > .material-icons
 workona.com##div.style-module--sideFilters--3EHP0:nth-of-type(1)
 workona.com##div.style-module--sideFilters--3EHP0:nth-of-type(2)
 www.academia.edu##.header--container
 www.academia.edu##.js-swp-splash-above-fold.above-fold
 www.academia.edu##.js-swp-splash-above-fold.above-fold > div.hide-on-mobile
 www.academia.edu##.work-card--content
+www.bilibili.tv##.bstar-web__header--top-logo
+www.bilibili.tv##.dropdown__mode--dark.dropdown
+www.bilibili.tv##a.bstar-web__header-cell:nth-of-type(1)
+www.bilibili.tv##a.bstar-web__header-cell:nth-of-type(2)
 www.geeksforgeeks.org###hslider
 www.geeksforgeeks.org##.darkMode-wrap
 www.geeksforgeeks.org##.header-main__container
@@ -105,7 +132,9 @@ www.geeksforgeeks.org##.tooltip.article--viewer_bookmark
 www.geeksforgeeks.org##.tooltip.article--viewer_improve
 www.geeksforgeeks.org##.tooltip.article--viewer_like
 www.google.com##.XDyW0e
+www.messenger.com##.kavbgo14
 www.strava.com##._2nAxt_3YbAL9MfIIoqosH7.FH6yJ4SV-PeSxp65z2E2O
+www.studocu.com##._63f5c4e7e31f._3182a7ef6737
 www.subnhanh.net##.player-under-kubet
 www.wolframalpha.com##.Ugj72
 www.wolframalpha.com##._11qob._27cYQ
